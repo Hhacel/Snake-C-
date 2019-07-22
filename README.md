@@ -1,1 +1,1 @@
-# Snake-C-
+# This program is using SFML
